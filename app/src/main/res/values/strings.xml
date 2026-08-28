@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ကကတစ် (Kakatit AI)</string>
+    <string name="status_ready">ဗုဒ္ဓဟူးသမီး ကကတစ် အသင့်ရှိနေပါပြီရှင်။ 🪷💖</string>
+    <string name="btn_learn">သင်ယူမည်</string>
+    <string name="btn_google_signin">Google Sign-In</string>
+    <string name="btn_drive_sync">Drive Sync</string>
+    <string name="btn_check_update">Check Update</string>
+</resources>
